@@ -16,15 +16,6 @@ Maxim Andreevich
 
 ---
 
-## 📌 About Me
-- 💡 I enjoy solving real-world problems through code.
-- 🏗️ Working on exciting projects in **Web Development, and Software Engineering**.
-- 💬 Ask me about **Python, HTML, CSS, JavaScript, C**.
-- 🎯 Passionate about **Open Source Contributions & Tech Innovations**.
-- 🎨 I also have experience in **video editing, photo editing, and music production**.
-
----
-
 ## 🔥 My Tech Stack
 
 ### 🚀 Programming Languages
