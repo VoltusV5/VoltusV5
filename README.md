@@ -1,9 +1,5 @@
 # 🚀 Welcome to My GitHub Profile!
 
-## 👋 Hello, I'm VoltusV!
-
-✨ *Innovative Thinker | Tech Enthusiast | Lifelong Learner* ✨
-
 ---
 
 ## 🎓 Education
@@ -58,8 +54,8 @@ Maxim Andreevich
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoltusV5&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoltusV5&layout=compact&theme=tokyonight)
 
 ---
 
