@@ -45,7 +45,7 @@ Maxim Andreevich
 _Received a **High Quality Awards 25%** diploma for providing one of the top 25% solutions in the first round of the case championship._  
 📄 [View Certificate](./certificates/changellenge_cupit_2025.png)
 
-<img src="./certificates/changellenge_cupit_2025.png" alt="Cup IT Certificate" width="500"/>
+<img src="./certificates/changellenge_cupit_2025.png" alt="Cup IT Certificate" width="200"/>
 
 ## 📌 My Projects
 🔹 **[University Labs](#)** - A collection of university labs in **Programming, Computer Science, and Algorithmic Foundations of Software Engineering**.  
