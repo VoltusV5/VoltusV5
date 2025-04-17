@@ -38,6 +38,15 @@ Maxim Andreevich
 
 ---
 
+## 🏆 Achievements
+
+[![Cup IT Award](https://img.shields.io/badge/Changellenge%20Cup%20IT-Top%2025%25%20Award-800000?style=for-the-badge&logo=matrix&logoColor=white)](./certificates/changellenge_cupit_2025.png)  
+📍 **Changellenge >> Cup IT 2025**, Data Analytics Section | 🗓️ April 2, 2025  
+_Received a **High Quality Awards 25%** diploma for providing one of the top 25% solutions in the first round of the case championship._  
+📄 [View Certificate](./certificates/changellenge_cupit_2025.png)
+
+<img src="./certificates/changellenge_cupit_2025.png" alt="Cup IT Certificate" width="500"/>
+
 ## 📌 My Projects
 🔹 **[University Labs](#)** - A collection of university labs in **Programming, Computer Science, and Algorithmic Foundations of Software Engineering**.  
 🔹 **[CMPMARKET](#)** - A website that provides an aggregated summary of product data from multiple marketplaces.  
