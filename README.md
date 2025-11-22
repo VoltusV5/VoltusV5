@@ -6,7 +6,7 @@
 
 Maxim Andreevich
 
-📅 1st-year student  
+📅 2st-year student  
 
 🎓 **SPbSUT - Saint Petersburg State University of Telecommunications named after Bonch-Bruevich**  
 
@@ -69,7 +69,7 @@ voltusv_gg
 ```
 ###  Telegram username:
 ```
-@VoltusVOFF
+@VoltusV_IT
 ```
 ---
 🌟 **Feel free to check out my repositories and contribute!**  
