@@ -47,16 +47,6 @@ _Received a **High Quality Awards 25%** diploma for providing one of the top 25%
 
 <img src="./certificates/changellenge_cupit_2025.png" alt="Cup IT Certificate" width="200"/>
 
-## 📌 My Projects
-🔹 **[University Labs](#)** - A collection of university labs in **Programming, Computer Science, and Algorithmic Foundations of Software Engineering**.  
-🔹 **[CMPMARKET](#)** - A website that provides an aggregated summary of product data from multiple marketplaces.  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoltusV5&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoltusV5&layout=compact&theme=tokyonight)
-
 ---
 
 ## 💬 Let's Connect!
