@@ -15,31 +15,6 @@
 
 ## 🛠 Технологический стек и Навыки
 
-### Языки и основы
-* Python (ООП), Linux, Bash, алгоритмы и структуры данных
-
-### Бэкенд-разработка и API
-* Django Framework, Django Rest Framework (DRF), SQLAlchemy, Requests, проектирование и интеграция API.
-
-### Базы данных
-* PostgreSQL, MySQL, SQLite.
-
-### Тестирование
-* pytest, unittest, django unittest.
-
-### Инструменты, DevOps и методологии
-* Git, GitHub, CI/CD, Postman, Agile, Atlassian Confluence, Jira.
-
-### Фронтенд-разработка (Прототипирование и MVP)
-* Vue.js, JavaScript, HTML5, CSS3.
-
-### Мультимедиа (Хобби)
-* Adobe Premiere Pro, Adobe After Effects, Photoshop, FL Studio.
-
----
-
-### Бейджи технологий
-
 #### Бэкенд, базы данных и инструменты
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -64,6 +39,27 @@
 ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL%20Studio-FF7900?style=for-the-badge&logo=flstudio&logoColor=white)
+
+### Языки и основы
+* Python (ООП), Linux, Bash, алгоритмы и структуры данных
+
+### Бэкенд-разработка и API
+* Django Framework, Django Rest Framework (DRF), SQLAlchemy, Requests, проектирование и интеграция API.
+
+### Базы данных
+* PostgreSQL, MySQL, SQLite.
+
+### Тестирование
+* pytest, unittest, django unittest.
+
+### Инструменты, DevOps и методологии
+* Git, GitHub, CI/CD, Postman, Agile, Atlassian Confluence, Jira.
+
+### Фронтенд-разработка (Прототипирование и MVP)
+* Vue.js, JavaScript, HTML5, CSS3.
+
+### Мультимедиа (Хобби)
+* Adobe Premiere Pro, Adobe After Effects, Photoshop, FL Studio.
 
 ---
 
